@@ -1,0 +1,12 @@
+C:\Users\Nisa\OneDrive\Masaüstü\Sezar Şifreleme Algoritması\Sezar Şifreleme Algoritması\bin\Debug\Sezar Şifreleme Algoritması.exe.config
+C:\Users\Nisa\OneDrive\Masaüstü\Sezar Şifreleme Algoritması\Sezar Şifreleme Algoritması\bin\Debug\Sezar Şifreleme Algoritması.exe
+C:\Users\Nisa\OneDrive\Masaüstü\Sezar Şifreleme Algoritması\Sezar Şifreleme Algoritması\bin\Debug\Sezar Şifreleme Algoritması.pdb
+C:\Users\Nisa\OneDrive\Masaüstü\Sezar Şifreleme Algoritması\Sezar Şifreleme Algoritması\obj\Debug\Sezar Şifreleme Algoritması.csproj.AssemblyReference.cache
+C:\Users\Nisa\OneDrive\Masaüstü\Sezar Şifreleme Algoritması\Sezar Şifreleme Algoritması\obj\Debug\Sezar_Şifreleme_Algoritması.baslangicFormu.resources
+C:\Users\Nisa\OneDrive\Masaüstü\Sezar Şifreleme Algoritması\Sezar Şifreleme Algoritması\obj\Debug\Sezar_Şifreleme_Algoritması.Properties.Resources.resources
+C:\Users\Nisa\OneDrive\Masaüstü\Sezar Şifreleme Algoritması\Sezar Şifreleme Algoritması\obj\Debug\Sezar_Şifreleme_Algoritması.sifrelemeFormu.resources
+C:\Users\Nisa\OneDrive\Masaüstü\Sezar Şifreleme Algoritması\Sezar Şifreleme Algoritması\obj\Debug\Sezar Şifreleme Algoritması.csproj.GenerateResource.cache
+C:\Users\Nisa\OneDrive\Masaüstü\Sezar Şifreleme Algoritması\Sezar Şifreleme Algoritması\obj\Debug\Sezar Şifreleme Algoritması.csproj.CoreCompileInputs.cache
+C:\Users\Nisa\OneDrive\Masaüstü\Sezar Şifreleme Algoritması\Sezar Şifreleme Algoritması\obj\Debug\Sezar Şifreleme Algoritması.exe
+C:\Users\Nisa\OneDrive\Masaüstü\Sezar Şifreleme Algoritması\Sezar Şifreleme Algoritması\obj\Debug\Sezar Şifreleme Algoritması.pdb
+C:\Users\Nisa\OneDrive\Masaüstü\Sezar Şifreleme Algoritması\Sezar Şifreleme Algoritması\obj\Debug\Sezar_Şifreleme_Algoritması.sifreCozmeFormu.resources
